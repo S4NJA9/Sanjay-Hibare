@@ -1,124 +1,222 @@
 <h1 align="center">Hi 👋, I'm Sanjay Hibare</h1>
 
 <h3 align="center">
-Embedded Systems & Firmware Engineer | Edge AI & IoT Innovator
+2026 Electronics & Telecommunication Engineering Graduate | Embedded Systems Trainee
 </h3>
 
 <p align="center">
-Building intelligent, real-time embedded systems at the intersection of hardware, firmware, and AI.
+Aspiring Embedded Software & Firmware Developer with a strong foundation in C programming and hands-on project experience.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Electronics & Telecommunication Engineer
-- 🔧 Strong focus on **Embedded Firmware Development (STM32, ESP32)**
-- 🤖 Exploring **Edge AI & Embedded ML** for smart sensing systems
-- 🚗 Interested in **Automotive Embedded, RTOS-based systems, and CAN networks**
-- ⚡ Believer in **efficient, low-power, real-time system design**
-- 🌱 Currently learning **advanced FreeRTOS, CAN diagnostics, and Edge AI optimization**
+
+- 🎓 2026 B.Tech graduate in Electronics & Telecommunication Engineering
+- 🔧 Currently pursuing professional Embedded Systems training at Emertxe, Bengaluru
+- 💻 Strong foundation in C programming, C++, Data Structures and Problem Solving
+- 🔌 Familiar with UART, SPI and I²C communication protocols
+- 🧩 Interested in Embedded Software, Firmware Development and Hardware-Software Integration
+- 🌱 Currently expanding my knowledge of Linux Internals, Microcontrollers and Embedded Systems
+- 🎯 Looking for entry-level opportunities in Embedded Software, Firmware and Embedded Systems
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Technical Skills
 
-### 🔹 Programming & Firmware
-- C, Embedded C, C++, Python
-- ARM Assembly (Basic)
-- Register-level programming
-- State-machine-based firmware design
+### 🔹 Programming & Core Concepts
 
-### 🔹 Microcontrollers & Hardware
-- STM32 (ARM Cortex-M Series)
-- ESP32, ESP8266
-- Arduino Uno & Mega
-- Sensors, Relays, Motors, Power Circuits
+- C Programming
+- C++
+- Data Structures
+- Problem Solving
+- Pointers
+- File Handling
+- Dynamic Memory Allocation
+- Linked Lists
+- String Handling
+- Bitwise Operations
+- Command-Line Arguments
+- Shell Scripting
 
-### 🔹 Real-Time & System Design
-- FreeRTOS (Tasks, Queues, Semaphores, Mutex)
-- Interrupt-driven design
-- Timers, PWM, DMA
-- Low-power modes & power optimization
-- Boot process (Basic)
+### 🔹 Embedded Systems
 
-### 🔹 Communication & Networking
-- UART, I2C, SPI
-- CAN (Controller Area Network)
-- Wi-Fi
-- MQTT
-- TCP/IP (Fundamentals)
+- Embedded Systems Fundamentals
+- Microcontroller-based Systems
+- Sensor Interfacing
+- Hardware-Software Integration
+- UART
+- SPI
+- I²C
 
----
+### 🔹 Tools & Technologies
 
-## 🤖 Edge AI & Intelligent Systems
-- CNN-based image classification (Edge + Cloud)
-- Sensor data analytics
-- AI-assisted decision making for IoT systems
-- OpenCV (Basic)
-- TensorFlow / PyTorch (Model usage & inference basics)
-
-*(Focused on **practical AI integration**, not pure data science)*
-
----
-
-## 🌐 IoT & Cloud
-- ThingSpeak
-- Arduino IoT Cloud
-- REST APIs (Basics)
-- Real-time dashboards & alerts
-- Secure device-to-cloud communication (Basic concepts)
-
----
-
-## 🧪 Debugging & Testing
-- DSO (Digital Storage Oscilloscope)
-- Multimeter
-- UART debug logs
-- Real-time task monitoring
-- Firmware fault analysis
-
----
-
-## 🧰 Tools & Development Stack
-- STM32CubeIDE
-- Keil µVision
-- Arduino IDE
+- GCC
+- GDB
+- Makefile
+- Linux Command Line
 - VS Code
-- Proteus (Simulation)
-- KiCad (Schematic & PCB Basics)
 - Git & GitHub
-- Linux & Bash (Basics)
+- Arduino IDE
+- Proteus
+- Keil µVision
+
+---
+
+## 📚 Current Learning
+
+I am currently continuing my Embedded Systems training and building my knowledge in:
+
+- Linux Internals
+- Microcontrollers
+- Embedded C
+- Firmware Development
+- Hardware-Software Integration
+
+My focus is on developing strong fundamentals and gaining practical experience through hands-on projects.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔋 Automotive CAN-Based Battery Management System
-- STM32 + FreeRTOS based real-time firmware
-- Voltage & temperature monitoring with fault detection
-- CAN communication for automotive-style networks
+### 🔢 Advanced Precision Calculator (APC)
 
-### 🌱 Smart Crop Monitoring & Disease Detection (IoT + Edge AI)
-- ESP32-based environmental sensing
-- CNN-based plant disease detection
-- Cloud dashboard with real-time analytics
+A C-based calculator project designed to perform arithmetic operations on large numbers using dynamic data structures.
+
+**Key Areas:**
+- Advanced C Programming
+- Linked Lists
+- Dynamic Memory Allocation
+- Pointers
+- Data Structures
+- File/Command-line handling
+
+---
+
+### 🔎 Inverted Search
+
+A C-based file indexing and searching project that organizes and searches words from multiple text files.
+
+**Key Areas:**
+- C Programming
+- Data Structures
+- Hashing
+- Linked Lists
+- File Handling
+- Dynamic Memory Allocation
+
+---
+
+### 🎵 MP3 Tag Reader
+
+A C-based application for reading and displaying metadata information from MP3 files.
+
+**Key Areas:**
+- C Programming
+- File Handling
+- Command-Line Arguments
+- Structures
+- Binary File Processing
+
+---
+
+### 🖼️ Image Steganography
+
+A C-based project for hiding and extracting information within an image file.
+
+**Key Areas:**
+- C Programming
+- File Handling
+- Bitwise Operations
+- Pointers
+- Encoding & Decoding
+
+---
+
+### 📇 Address Book
+
+A C-based contact management application for storing and managing contact information.
+
+**Key Areas:**
+- C Programming
+- Structures
+- File Handling
+- Searching
+- Updating and Managing Records
+
+---
+
+### 🌱 Smart Crop Monitoring & Disease Detection System
+
+An academic project combining IoT, environmental monitoring and machine learning for smart agriculture.
+
+**Technologies:**
+- ESP32
+- Arduino IDE
+- Python
+- TensorFlow/Keras
+- CNN
+- React.js
+- ThingSpeak
+
+**Features:**
+- Temperature and humidity monitoring
+- Soil moisture monitoring
+- Rain detection
+- Plant disease detection using CNN
+- Cloud-based monitoring
+- Solar-powered operation
+
+---
 
 ### ♻️ IoT-Based Smart Waste Management System
-- Smart bin with ultrasonic & IR sensors
-- Automated lid control
-- Cloud-based monitoring & alerts
 
-👉 Explore repositories for **source code, documentation, and system architecture**.
+An academic IoT project designed for automated waste-level monitoring and touch-free waste disposal.
+
+**Technologies:**
+- Arduino Mega
+- ESP32
+- Embedded C
+- Arduino IoT Cloud
+
+**Features:**
+- Ultrasonic-based waste-level monitoring
+- IR-based user detection
+- Automatic lid operation using servo motor
+- Cloud monitoring
+- Sensor and microcontroller integration
 
 ---
 
-## 🌐 Professional Links
-- 🔗 LinkedIn: https://www.linkedin.com/in/sanjay-hibare-283137289/
-- 💻 GitHub: https://github.com/S4NJA9/Sanjay-Hibare
+## 🏆 Leadership & Activities
+
+### Vice President — IoT Club
+
+- Participated in technical and IoT-focused activities
+- Coordinated with students during club initiatives
+- Supported technical events and collaborative activities
+
+### Vice Secretary — OIC (Orchid Innovation Club)
+
+- Participated in innovation-focused activities
+- Supported coordination of student initiatives
+- Collaborated with students on technical activities
 
 ---
 
-## 🎯 Career Goal
-To work as an **Embedded / Firmware Engineer** building **reliable, real-time, and intelligent systems** for automotive, industrial, and IoT applications.
+## 📈 My Learning Journey
 
-⭐ Open to entry-level Embedded / Firmware / IoT Engineer opportunities
+```text
+C Programming
+      ↓
+C++ & Data Structures
+      ↓
+Problem Solving
+      ↓
+Embedded Systems Training
+      ↓
+UART • SPI • I²C
+      ↓
+Linux Internals & Microcontrollers
+      ↓
+Embedded Software & Firmware Development
