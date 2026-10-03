@@ -5,7 +5,11 @@
 </h3>
 
 <p align="center">
-Aspiring Embedded Software & Firmware Developer with a strong foundation in C programming and hands-on project experience.
+Aspiring Embedded Software & Firmware Developer | C Programmer | Embedded Systems Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=C+Programming+%7C+Embedded+Systems;Learning+Linux+Internals+%7C+Microcontrollers;Building+Projects+%7C+Solving+Problems;Aspiring+Embedded+Software+%26+Firmware+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -63,9 +67,9 @@ Aspiring Embedded Software & Firmware Developer with a strong foundation in C pr
 
 ---
 
-## 📚 Current Learning
+## 📚 Currently Learning
 
-I am currently continuing my Embedded Systems training and building my knowledge in:
+I am currently continuing my Embedded Systems training and strengthening my knowledge in:
 
 - Linux Internals
 - Microcontrollers
@@ -77,146 +81,16 @@ My focus is on developing strong fundamentals and gaining practical experience t
 
 ---
 
-## 📂 Featured Projects
+## 💻 Problem Solving
 
-### 🔢 Advanced Precision Calculator (APC)
+I regularly practice programming problems to strengthen my C fundamentals and problem-solving skills.
 
-A C-based calculator project designed to perform arithmetic operations on large numbers using dynamic data structures.
+```c
+#include <stdio.h>
 
-**Key Areas:**
-- Advanced C Programming
-- Linked Lists
-- Dynamic Memory Allocation
-- Pointers
-- Data Structures
-- File/Command-line handling
+int main(void)
+{
+    printf("Learn → Build → Debug → Improve\n");
 
----
-
-### 🔎 Inverted Search
-
-A C-based file indexing and searching project that organizes and searches words from multiple text files.
-
-**Key Areas:**
-- C Programming
-- Data Structures
-- Hashing
-- Linked Lists
-- File Handling
-- Dynamic Memory Allocation
-
----
-
-### 🎵 MP3 Tag Reader
-
-A C-based application for reading and displaying metadata information from MP3 files.
-
-**Key Areas:**
-- C Programming
-- File Handling
-- Command-Line Arguments
-- Structures
-- Binary File Processing
-
----
-
-### 🖼️ Image Steganography
-
-A C-based project for hiding and extracting information within an image file.
-
-**Key Areas:**
-- C Programming
-- File Handling
-- Bitwise Operations
-- Pointers
-- Encoding & Decoding
-
----
-
-### 📇 Address Book
-
-A C-based contact management application for storing and managing contact information.
-
-**Key Areas:**
-- C Programming
-- Structures
-- File Handling
-- Searching
-- Updating and Managing Records
-
----
-
-### 🌱 Smart Crop Monitoring & Disease Detection System
-
-An academic project combining IoT, environmental monitoring and machine learning for smart agriculture.
-
-**Technologies:**
-- ESP32
-- Arduino IDE
-- Python
-- TensorFlow/Keras
-- CNN
-- React.js
-- ThingSpeak
-
-**Features:**
-- Temperature and humidity monitoring
-- Soil moisture monitoring
-- Rain detection
-- Plant disease detection using CNN
-- Cloud-based monitoring
-- Solar-powered operation
-
----
-
-### ♻️ IoT-Based Smart Waste Management System
-
-An academic IoT project designed for automated waste-level monitoring and touch-free waste disposal.
-
-**Technologies:**
-- Arduino Mega
-- ESP32
-- Embedded C
-- Arduino IoT Cloud
-
-**Features:**
-- Ultrasonic-based waste-level monitoring
-- IR-based user detection
-- Automatic lid operation using servo motor
-- Cloud monitoring
-- Sensor and microcontroller integration
-
----
-
-## 🏆 Leadership & Activities
-
-### Vice President — IoT Club
-
-- Participated in technical and IoT-focused activities
-- Coordinated with students during club initiatives
-- Supported technical events and collaborative activities
-
-### Vice Secretary — OIC (Orchid Innovation Club)
-
-- Participated in innovation-focused activities
-- Supported coordination of student initiatives
-- Collaborated with students on technical activities
-
----
-
-## 📈 My Learning Journey
-
-```text
-C Programming
-      ↓
-C++ & Data Structures
-      ↓
-Problem Solving
-      ↓
-Embedded Systems Training
-      ↓
-UART • SPI • I²C
-      ↓
-Linux Internals & Microcontrollers
-      ↓
-Embedded Software & Firmware Development
+    return 0;
+}
