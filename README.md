@@ -1,137 +1,92 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-# Sanjay Hibare
+# `SANJAY_HIBARE.elf`
 
-### Embedded Software & Firmware Developer in the making
+**Embedded Software & Firmware Developer, v2026.1**
 
-`// Talking to hardware, one register at a time`
+*"If it can blink an LED, it can change the world."*
 
-<br/>
-
-![Role](https://img.shields.io/badge/Role-Embedded%20Software%20%2F%20Firmware-0f766e?style=for-the-badge)
+![Role](https://img.shields.io/badge/Target-Embedded%20Software%20%2F%20Firmware-0f766e?style=for-the-badge)
 ![Training](https://img.shields.io/badge/Training-Emertxe%20Bengaluru-1d4ed8?style=for-the-badge)
-![Batch](https://img.shields.io/badge/B.Tech-2026%20E%26TC-7c3aed?style=for-the-badge)
+![Degree](https://img.shields.io/badge/B.Tech-E%26TC%202026-7c3aed?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-16a34a?style=for-the-badge)
 
 </div>
 
 ---
 
-## `> whoami`
+## 🔌 Boot Log
 
-```c
-typedef struct {
-    const char *name;
-    const char *degree;
-    const char *training;
-    const char *core_language;
-    const char *goal;
-    int         projects_built;
-    int         curiosity_level;
-} Engineer;
-
-Engineer sanjay = {
-    .name            = "Sanjay Hibare",
-    .degree          = "B.Tech, Electronics & Telecommunication (2026)",
-    .training        = "Emertxe Certified Embedded Professional",
-    .core_language   = "C",
-    .goal            = "Entry-level Embedded Software / Firmware Engineer",
-    .projects_built  = 7,
-    .curiosity_level = 100,   /* never overflows */
-};
+```text
+[  OK  ] Loaded degree ............ B.Tech, Electronics & Telecommunication (2026)
+[  OK  ] Mounted training ......... Emertxe Certified Embedded Professional
+[  OK  ] Initialised language ..... C  (primary), C++, Shell, Python
+[  OK  ] Detected peripherals ..... UART, SPI, I2C
+[  OK  ] Awards ................... Student Spot Award, Emertxe (DSA module)
+[  ..  ] Starting service ......... Linux Internals
+[  ..  ] Starting service ......... Firmware Development
+[ WAIT ] Waiting for ................ first embedded role  <-- you can help here :)
 ```
 
-> I enjoy the part of engineering where software meets real hardware: sensors, registers, protocols and the moment a board finally does what the code says.
+---
+
+## 📄 Datasheet
+
+| Parameter | Value |
+|-----------|-------|
+| **Device** | Sanjay Hibare |
+| **Package** | B.Tech Graduate, Electronics & Telecommunication, Class of 2026 |
+| **Core** | C Programming, Data Structures, Problem Solving |
+| **Clock source** | Curiosity (external crystal: coffee) |
+| **Interfaces** | UART, SPI, I²C, GPIO, Timers, Interrupts |
+| **Operating mode** | Learn, build, debug, repeat |
+| **Application** | Embedded Software, Firmware, Hardware-Software Integration |
+| **Availability** | Entry-level roles, open now |
 
 ---
 
-## 🏆 Recognition
+## 🗺️ Skill Memory Map
 
-<table>
-  <tr>
-    <td>🥇</td>
-    <td><b>Student Spot Award, Emertxe</b> (October 2026)<br/>Recognised for enthusiasm and inclination towards learning the Data Structures and Algorithms (DSA) module.</td>
-  </tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-**Languages & Concepts**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-334155?style=flat-square)
-![Pointers](https://img.shields.io/badge/Pointers%20%26%20Memory-334155?style=flat-square)
-![Bitwise](https://img.shields.io/badge/Bitwise%20Ops-334155?style=flat-square)
-
-**Embedded & Hardware**
-
-![UART](https://img.shields.io/badge/UART-0f766e?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-0f766e?style=flat-square)
-![I2C](https://img.shields.io/badge/I%C2%B2C-0f766e?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensor%20Interfacing-0f766e?style=flat-square)
-
-**Tools**
-
-![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-334155?style=flat-square)
-![Make](https://img.shields.io/badge/Makefile-334155?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux%20CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-334155?style=flat-square)
-![Keil](https://img.shields.io/badge/Keil%20%C2%B5Vision-334155?style=flat-square)
+| Address range | Region | Contents |
+|---------------|--------|----------|
+| `0x0000` – `0x0FFF` | **Language Core** | C, C++, Pointers, Structures, Dynamic Memory, Bitwise Operations |
+| `0x1000` – `0x1FFF` | **Data Structures** | Linked Lists, Hashing, File Handling, String Handling |
+| `0x2000` – `0x2FFF` | **Peripherals** | GPIO, Analog I/O, Character LCD, Timers, Counters, Interrupts |
+| `0x3000` – `0x3FFF` | **Protocols** | UART, SPI, I²C |
+| `0x4000` – `0x4FFF` | **Boards and IoT** | ESP32, Arduino Mega, Ultrasonic and IR sensors, Servo, ThingSpeak |
+| `0x5000` – `0x5FFF` | **Toolchain** | GCC, GDB, Makefile, Linux CLI, Git, VS Code, Arduino IDE, Proteus, Keil µVision |
+| `0x6000` – `0x6FFF` | **Scripting and extras** | Shell Scripting, Python, TensorFlow/Keras, React.js (academic projects) |
 
 ---
 
-## 🛠️ Featured Projects
+## 📦 Firmware Releases (Projects)
 
-| # | Project | What it does | Built with |
-|---|---------|--------------|------------|
-| 1 | **Inverted Search** | Indexes words across multiple text files and finds which files contain a given word | C, Hashing, Linked Lists, File I/O |
-| 2 | **Arbitrary Precision Calculator** | Performs arithmetic on numbers far beyond standard integer limits | C, Linked Lists, Dynamic Memory |
-| 3 | **MP3 Tag Reader** | Reads and displays title, artist and album metadata from MP3 files | C, Binary File Handling, Strings |
-| 4 | **Image Steganography** | Hides secret data inside an image and recovers it | C, Bitwise Operations, File I/O |
-| 5 | **Address Book** | Create, search, update, delete and store contacts | C, Structures, File Handling |
-| 6 | **Smart Crop Monitoring & Disease Detection** | Monitors temperature, humidity and soil moisture and detects plant disease from leaf images | ESP32, Python, TensorFlow/Keras, React.js, ThingSpeak |
-| 7 | **IoT Smart Waste Management** | Detects bin fill level and opens the lid automatically on user presence | Arduino Mega, ESP32, Ultrasonic and IR sensors, Servo |
+| Release | Project | Description | Tech |
+|---------|---------|-------------|------|
+| `v1.0` | **Inverted Search** | Builds a word index across many text files and finds which files contain a word | C, Hash Table, Linked Lists |
+| `v1.1` | **Arbitrary Precision Calculator** | Does arithmetic on numbers far beyond standard integer limits | C, Linked Lists, Dynamic Memory |
+| `v1.2` | **MP3 Tag Reader** | Reads title, artist and album metadata from MP3 files | C, Binary File I/O |
+| `v1.3` | **Image Steganography** | Hides secret data inside an image and recovers it | C, Bitwise Operations |
+| `v1.4` | **Address Book** | Create, search, update, delete and store contacts | C, Structures, File Handling |
+| `v2.0` | **Smart Crop Monitoring and Disease Detection** | Tracks temperature, humidity and soil moisture; detects plant disease from leaf images | ESP32, Python, CNN, React.js, ThingSpeak |
+| `v2.1` | **IoT Smart Waste Management** | Measures bin fill level and opens the lid automatically when someone approaches | Arduino Mega, ESP32, Ultrasonic, IR, Servo |
 
-<sub>👉 Add each repository link in the table (for example, turn the project name into `[Inverted Search](https://github.com/YOUR_USERNAME/REPO_NAME)`).</sub>
-
----
-
-## 🌱 Currently Levelling Up
-
-| Focus area | Level |
-|------------|-------|
-| C Programming | ●●●●● |
-| Data Structures & Algorithms | ●●●●○ |
-| Embedded C & Microcontrollers | ●●●○○ |
-| Linux Internals | ●●●○○ |
-| Firmware Development | ●●○○○ |
-
-<sub>Dots show where my focus is, not a formal score.</sub>
+<sub>Add a repository link to each project name, for example `[Inverted Search](https://github.com/S4NJA9/REPO_NAME)`, then delete this line.</sub>
 
 ---
 
-## 📊 GitHub
+## ⚡ Interrupt Vector Table (what has my attention right now)
 
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/S4NJA9?style=for-the-badge&logo=github&label=Followers)](https://github.com/S4NJA9)
-[![Repositories](https://img.shields.io/badge/Repositories-View%20all-181717?style=for-the-badge&logo=github)](https://github.com/S4NJA9?tab=repositories))
-</div>
+| Priority | Interrupt | Status |
+|:--------:|-----------|--------|
+| 0 | `IRQ_LINUX_INTERNALS` | Handling now |
+| 1 | `IRQ_EMBEDDED_C` | Handling now |
+| 2 | `IRQ_FIRMWARE_DEV` | Pending |
+| 3 | `IRQ_DSA_PRACTICE` | Running daily on LeetCode |
 
 ---
 
-## 🔁 My Loop
+## 🧩 Main Loop
 
 ```c
 #include <stdio.h>
@@ -139,8 +94,11 @@ Engineer sanjay = {
 int main(void)
 {
     while (1) {
-        printf("Learn -> Build -> Debug -> Improve\n");
-        /* repeat until it works, then make it better */
+        learn();
+        build();
+        debug();      /* the longest step, and where the real learning happens */
+        improve();
+        printf("commit and push\n");
     }
     return 0;
 }
@@ -148,13 +106,19 @@ int main(void)
 
 ---
 
-## 🤝 Let's Connect
+## 📡 Communication Interfaces
+
+| Interface | Link |
+|-----------|------|
+| **I²C: Email** | [sanjayhibare2004@gmail.com](mailto:sanjayhibare2004@gmail.com) |
+| **SPI: LeetCode** | [Sanjay_leetcode4999](https://leetcode.com/u/Sanjay_leetcode4999/) |
+| **UART: GitHub** | [S4NJA9](https://github.com/S4NJA9) |
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sanjayhibare2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayhibare2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/YOUR_LEETCODE](https://leetcode.com/u/Sanjay_leetcode4999/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayhibare2004@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sanjay__leetcode4999-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sanjay_leetcode4999/)
+[![Followers](https://img.shields.io/github/followers/S4NJA9?style=for-the-badge&logo=github&label=GitHub%20Followers)](https://github.com/S4NJA9)
 
 <br/>
 
