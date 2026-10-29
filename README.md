@@ -126,8 +126,7 @@ Engineer sanjay = {
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/S4NJA9?style=for-the-badge&logo=github&label=Followers)](https://github.com/S4NJA9)
-[![Repositories](https://img.shields.io/badge/Repositories-View%20all-181717?style=for-the-badge&logo=github)](https://github.com/S4NJA9?tab=repositories)
-
+[![Repositories](https://img.shields.io/badge/Repositories-View%20all-181717?style=for-the-badge&logo=github)](https://github.com/S4NJA9?tab=repositories))
 </div>
 
 ---
