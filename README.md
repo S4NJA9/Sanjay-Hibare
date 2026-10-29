@@ -155,7 +155,7 @@ int main(void)
 
 [![Email](https://img.shields.io/badge/Email-sanjayhibare2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayhibare2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/YOUR_LEETCODE](https://leetcode.com/u/Sanjay_leetcode4999/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/YOUR_LEETCODE](https://leetcode.com/u/Sanjay_leetcode4999/)
 
 <br/>
 
