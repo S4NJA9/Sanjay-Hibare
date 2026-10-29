@@ -20,7 +20,7 @@
 ```text
 [  OK  ] Loaded degree ............ B.Tech, Electronics & Telecommunication (2026)
 [  OK  ] Mounted training ......... Emertxe Certified Embedded Professional
-[  OK  ] Initialised language ..... C  (primary), C++, Shell, Python
+[  OK  ] Initialised language ..... C  (primary), C++
 [  OK  ] Detected peripherals ..... UART, SPI, I2C
 [  OK  ] Awards ................... Student Spot Award, Emertxe (DSA module)
 [  ..  ] Starting service ......... Linux Internals
