@@ -1,9 +1,11 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sanjay%20Hibare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20%26%20Firmware%20Developer%20in%20the%20making&descAlignY=60&descSize=18" width="100%" alt="Sanjay Hibare banner" />
+# Sanjay Hibare
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=720&lines=%2F%2F+Talking+to+hardware+one+register+at+a+time;while(learning)+%7B+build%28%29%3B+debug%28%29%3B+improve%28%29%3B+%7D;Bits+%7C+Bytes+%7C+Pointers+%7C+Peripherals" alt="Typing animation" />
+### Embedded Software & Firmware Developer in the making
+
+`// Talking to hardware, one register at a time`
 
 <br/>
 
@@ -107,24 +109,24 @@ Engineer sanjay = {
 
 ## 🌱 Currently Levelling Up
 
-```text
-[██████████] C Programming
-[████████░░] Data Structures & Algorithms
-[███████░░░] Embedded C & Microcontrollers
-[██████░░░░] Linux Internals
-[█████░░░░░] Firmware Development
-```
+| Focus area | Level |
+|------------|-------|
+| C Programming | ●●●●● |
+| Data Structures & Algorithms | ●●●●○ |
+| Embedded C & Microcontrollers | ●●●○○ |
+| Linux Internals | ●●●○○ |
+| Firmware Development | ●●○○○ |
 
-<sub>Bars show where my focus is, not a formal score.</sub>
+<sub>Dots show where my focus is, not a formal score.</sub>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/S4NJA9?style=for-the-badge&logo=github&label=Followers)](https://github.com/S4NJA9)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20all-181717?style=for-the-badge&logo=github)](https://github.com/S4NJA9?tab=repositories)
 
 </div>
 
@@ -158,7 +160,5 @@ int main(void)
 <br/>
 
 *Open to entry-level Embedded Software, Firmware and Embedded Systems roles.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
