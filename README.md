@@ -86,17 +86,31 @@ flowchart LR
     class TS,WEB,CNN,ALERT,IMG sw
 ```
 
-### State machine: IoT Smart Waste Management
+### Control flow: IoT Smart Waste Management
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Idle
-    Idle --> LidOpen: IR sensor detects user
-    LidOpen --> Idle: User leaves, servo closes lid
-    Idle --> Measuring: Ultrasonic reads fill level
-    Measuring --> Idle: Level logged
-    Measuring --> Reporting: Data sent via ESP32
-    Reporting --> Idle: Arduino IoT Cloud updated
+flowchart TD
+    IDLE(["Idle"])
+    IR{"IR sensor detects user?"}
+    OPEN["Servo opens lid"]
+    CLOSE["Servo closes lid"]
+    US["Ultrasonic reads fill level"]
+    SEND["ESP32 sends level to cloud"]
+    CLOUD[("Arduino IoT Cloud")]
+
+    IDLE --> IR
+    IR -- "Yes" --> OPEN
+    OPEN --> CLOSE
+    CLOSE --> US
+    IR -- "No" --> US
+    US --> SEND
+    SEND --> CLOUD
+    CLOUD --> IDLE
+
+    classDef hw fill:#0f766e,stroke:#0f766e,color:#fff
+    classDef sw fill:#1d4ed8,stroke:#1d4ed8,color:#fff
+    class OPEN,CLOSE,US hw
+    class SEND,CLOUD sw
 ```
 
 <sub>These diagrams show the overall flow of each project. Adjust the labels if your implementation differs.</sub>
